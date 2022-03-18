@@ -32,3 +32,5 @@ Review [REAME](https://github.com/reelyactive/pareto-anywhere)
 ![machine](https://github.com/christian-taillon/pareto-pi/blob/main/img/pareto-machine-readable.png?raw=true)
 ### Web Interface <br>
 ![gui](https://github.com/christian-taillon/pareto-pi/blob/main/img/pareto-context-example.png?raw=true)
+### Device <br>
+![gui](https://github.com/christian-taillon/pareto-pi/blob/main/img/device.png?raw=true)
