@@ -3,9 +3,6 @@ Simple script for running Open Source Pareto's Anywhere Pi for Bluetooth beacon 
 
 This project used both https://github.com/reelyactive/barnowl-hci and https://github.com/reelyactive/pareto-anywhere.
 
-![gui](https://github.com/christian-taillon/pareto-pi/blob/main/img/pareto-context-example.png?raw=true)
-
-![machine](https://github.com/christian-taillon/pareto-pi/blob/main/img/pareto-machine-readable.png?raw=true)
 
 It can also be run with [docker](https://github.com/reelyactive/pareto-anywhere)
 
@@ -27,5 +24,11 @@ step5_configure_pareto-anywhere-pi_service.sh
 step6_run_pareto-anywhere-pi_as_service.sh
 ```
 
-## Collect data with Elastic Stack or other outputs
+## To collect data with Elastic Stack or others review
 Review [REAME](https://github.com/reelyactive/pareto-anywhere)
+
+## Examples
+### Machine to Machine Example <br>
+![machine](https://github.com/christian-taillon/pareto-pi/blob/main/img/pareto-machine-readable.png?raw=true)
+### Web Interface <br>
+![gui](https://github.com/christian-taillon/pareto-pi/blob/main/img/pareto-context-example.png?raw=true)
